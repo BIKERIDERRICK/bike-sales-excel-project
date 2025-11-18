@@ -9,7 +9,8 @@ It includes:
 - Insights from the dataset
 
 ## Dashboard Preview
-(Add screenshot here if you want)
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/891bdb6a-03ce-4c96-b572-7edb5f062151" />
+
 
 ## How to Use
 1. Download the Excel file
